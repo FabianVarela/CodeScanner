@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Code Scanner</string>
+    <string name="permissionMessage">No tienes permisos de la cámara.</string>
+    <string name="message_dialog">Guardando datos, por favor espere…</string>
+    <string name="exception_protocol">Error en el protocolo de cliente</string>
+    <string name="exception_io">Error en la entrada y salida de los datos</string>
+    <string name="messageAddListCode">Código agregado a la lista.</string>
+    <string name="messageTerminalAddSuccess">Datos agregados correctamente !!!</string>
+    <string name="messageCodeAlreadyScan">El código se encuentra agregado a la lista.</string>
+    <string name="messageErrorAPI">Ocurrió un error al guardar los datos.</string>
+    <string name="hintLocation">Digite la locación</string>
+    <string name="hintCategory">Digite la categoría</string>
+    <string name="dialogTitleCodes">Códigos escaneados</string>
+    <string name="emptyMessageCodes">No se encontraron códigos.</string>
+    <string name="textButtonOKDialog">Aceptar</string>
+    <string name="textButtonSaveDialog">Guardar</string>
+    <string name="messageFocusOn">Foco de la cámara encendido</string>
+    <string name="messageFocusOff">Foco de la cámara apagado</string>
+    <string name="messageFlashOn">Flash de la cámara encendido</string>
+    <string name="messageFlashOff">Flash de la cámara apagado</string>
+    <string name="messageCameraOn">Cámara encendida.</string>
+    <string name="messageCameraOff">Cámara apagado.</string>
+    <string name="messageConnection">No tienes conexión a internet.</string>
+</resources>

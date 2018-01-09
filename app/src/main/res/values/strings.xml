@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">CodeScanner</string>
+    <string name="app_name">Code Scanner</string>
+    <string name="permissionMessage">You do not have camera permissions.</string>
+    <string name="message_dialog">Saving data, please wait …</string>
+    <string name="exception_protocol">Client protocol error</string>
+    <string name="exception_io">Error in data entry and exit</string>
+    <string name="messageAddListCode">Code added to the list.</string>
+    <string name="messageTerminalAddSuccess">Data added successfully !!!</string>
+    <string name="messageCodeAlreadyScan">The code is already added to the list.</string>
+    <string name="messageErrorAPI">Error to save the data.</string>
+    <string name="hintLocation">Enter location</string>
+    <string name="hintCategory">Enter category</string>
+    <string name="dialogTitleCodes">Scanned codes</string>
+    <string name="emptyMessageCodes">No codes found.</string>
+    <string name="textButtonOKDialog">OK</string>
+    <string name="textButtonSaveDialog">Save</string>
+    <string name="messageFocusOn">Camera focus on.</string>
+    <string name="messageFocusOff">Camera focus off.</string>
+    <string name="messageFlashOn">Camera flash on.</string>
+    <string name="messageFlashOff">Camera flash off.</string>
+    <string name="messageCameraOn">Camera on.</string>
+    <string name="messageCameraOff">Camera off.</string>
+    <string name="messageConnection">You have no internet connection.</string>
 </resources>
